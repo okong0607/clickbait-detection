@@ -1,0 +1,6 @@
+clickbait_data.csv
+best_model/
+results/
+__pycache__/
+*.pyc
+tmp_preview/
